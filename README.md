@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadia Rajpoot</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="![Uploading githup.jpeg…]()">
 
 
 
@@ -24,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiarajpoot1&show_icons=true&locale=en&layout=compact" alt="nadiarajpoot1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiarajpoot1&show_icons=true&locale=en" alt="nadiarajpoot1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadiarajpoot1&" alt="nadiarajpoot1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadiarajpoot1&show_icons=true&locale=en" alt="nadiarajpoot1" /><
