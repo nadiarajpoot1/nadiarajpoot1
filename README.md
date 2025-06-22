@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadia Rajpoot</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
 
-<img aligh="right" alt="coding" width="400" src="![githup](https://github.com/user-attachments/assets/629ad4ae-bf7b-432f-8a14-3e304476bb03)">
+<"img aligh="right" alt="coding" width="400" src="![githup](https://github.com/user-attachments/assets/629ad4ae-bf7b-432f-8a14-3e304476bb03)"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiarajpoot1&label=Profile%20views&color=0e75b6&style=flat" alt="nadiarajpoot1" /> </p>
 
