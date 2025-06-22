@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadia Rajpoot</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
 
-img aligh="right" alt="coding" width="400" src="![githup](https://github.com/user-attachments/assets/629ad4ae-bf7b-432f-8a14-3e304476bb03)">
+img aligh="right" alt="coding" width="200" height="100" src="![githup](https://github.com/user-attachments/assets/629ad4ae-bf7b-432f-8a14-3e304476bb03)">
 
 
 
