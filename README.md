@@ -1,4 +1,4 @@
-![logo](https://github.com/nadiarajpoot1/nadiarajpoot1/blob/main/Githup%20banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Nadia Rajpoot</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
