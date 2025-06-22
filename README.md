@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadia Rajpoot</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
 
-<img aligh="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20pics%20for%20girls&imgurl=https%3A%2F%2Fimage.lexica.art%2Fmd2_webp%2Fea13cca0-2792-4825-8d49-a56918797454&imgrefurl=https%3A%2F%2Flexica.art%2F%3Fq%3Danime%2Bgirl%2Bis%2Bprogramming%2Bat%2Ba%2Bcomputer%2Bin%2Ba%2Broom%2Bfull%2Bof%2Bgadgets&docid=kH-K-pYPDDGBuM&tbnid=8ax4FlVhMlrvgM&vet=12ahUKEwjis5CJ5IKOAxX_VaQEHRcBCWgQM3oECGsQAA..i&w=665&h=921&hcb=2&ved=2ahUKEwjis5CJ5IKOAxX_VaQEHRcBCWgQM3oECGsQAA">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/108c04069522a50e0c763031307aad890b7257afed0bdb84560d919c865e4bf3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313835373539322f73637265656e73686f74732f333834383339362f6368617261637465722d747970696e672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiarajpoot1&label=Profile%20views&color=0e75b6&style=flat" alt="nadiarajpoot1" /> </p>
 
