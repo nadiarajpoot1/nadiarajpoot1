@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nadia Rajpoot</h1>
+![image](https://github.com/user-attachments/assets/ecaa647c-9eb0-4272-af9a-ce2710b47630)<h1 align="center">Hi 👋, I'm Nadia Rajpoot</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
 
-<"img aligh="right" alt="coding" width="400" src="![githup](https://github.com/user-attachments/assets/629ad4ae-bf7b-432f-8a14-3e304476bb03)"">
+<img align="right" alt="coding" width="100" src="https://thumbs.dreamstime.com/z/anime-style-illustration-young-hacker-coding-futuristic-cyber-environment-vibrant-depicts-female-immersed-s-focused-383138744.jpg
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiarajpoot1&label=Profile%20views&color=0e75b6&style=flat" alt="nadiarajpoot1" /> </p>
 
